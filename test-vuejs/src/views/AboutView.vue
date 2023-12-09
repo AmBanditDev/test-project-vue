@@ -4,5 +4,6 @@
     <h3>สวัสดีครับ ผมนายธันวบัณฑิต</h3>
     <h3>อายุ 22 ปี</h3>
     <h3>ระดับการศึกษา: มหาวิทยาลัยราชภัฏสวนสุนันทา สาขาวิทยาการคอมพิวเตอร์</h3>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis, dolor?</p>
   </div>
 </template>
