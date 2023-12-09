@@ -1,15 +1,7 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div>
+    <h1>เกี่ยวกับเรา</h1>
+    <h3>สวัสดีครับ ผมนายธันวบัณฑิต</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui itaque tenetur id at, voluptatum ea fugit reiciendis nobis, provident ducimus non fuga quidem eveniet aliquid nostrum sit suscipit ratione deserunt.</p>
   </div>
 </template>
-
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
-</style>
