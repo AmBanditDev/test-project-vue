@@ -1,15 +1,9 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div>
+    <h1>เกี่ยวกับเรา</h1>
+    <h3>สวัสดีครับ ผมนายธันวบัณฑิต</h3>
+    <h3>อายุ 22 ปี</h3>
+    <h3>ระดับการศึกษา: มหาวิทยาลัยราชภัฏสวนสุนันทา สาขาวิทยาการคอมพิวเตอร์</h3>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis, dolor?</p>
   </div>
 </template>
-
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
-</style>
